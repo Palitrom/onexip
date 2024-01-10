@@ -1,6 +1,7 @@
 # onexip-example1
 
 ---------------------- English ---------------------------------------
+
 Shared memory project to simulate a transfer of large image data under Linux.
 
 Set up two command line programs with C++. Find an IPC technology. Transfer large image data simulated
@@ -31,6 +32,7 @@ After both programs have run, you can see the results in the consumer terminal, 
 Note that this is a simple example and actual performance may vary depending on the system. If you have problems or errors running the programs, check the compilation steps and places in the code that need to be adjusted for your specific environment.
 
 ---------------------- Deutsch ---------------------------------------
+
 Shared Memory Projekt zur Simulation eines Transfers großer Bilddaten, unter Linux.
 
 Setze zwei Kommandozeilenprogramme mit C++ auf. Finde eine IPC-Technologie. Transferiere große Bilddaten simuliert 
